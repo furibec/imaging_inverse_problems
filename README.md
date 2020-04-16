@@ -1,4 +1,4 @@
-# Imaging inverse problems
+# Inverse problems in imaging 
 This repository contains python implementations related to the solution of inverse problems in imaging. We employ [ASTRA toolbox](https://github.com/jakobsj/astra-toolbox) to generate the projection geometry and the Radon operator.
 
 * Inside the 'Gaussian' folder, we show a comparison between three solutions, posterior mean (analytical Gaussian-linear case), least-squares, and filtered back projection. The target example is a 2D X-ray tomography (Shepp-Logan phantom). 
